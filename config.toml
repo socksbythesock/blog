@@ -1,0 +1,5 @@
+baseURL = "https://socksbythesock.github.io/blog"
+languageCode = "en-us"
+title = "Socks by the Sock"
+theme = "casper"
+publishDir = "docs"
