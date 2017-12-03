@@ -6,7 +6,7 @@
     <description>Recent content on Socks by the Sock</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Dec 2017 12:51:05 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2017 13:43:15 -0500</lastBuildDate>
     
 	<atom:link href="https://socksbythesock.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>My First Post</title>
       <link>https://socksbythesock.github.io/blog/posts/my-first-post/</link>
-      <pubDate>Sun, 03 Dec 2017 12:51:05 -0500</pubDate>
+      <pubDate>Sun, 03 Dec 2017 13:43:15 -0500</pubDate>
       
       <guid>https://socksbythesock.github.io/blog/posts/my-first-post/</guid>
-      <description>This is my first post</description>
+      <description></description>
     </item>
     
   </channel>
