@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socks by the Sock</title>
+    <link>https://socksbythesock.github.io/</link>
+    <description>Recent content on Socks by the Sock</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 09:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://socksbythesock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://socksbythesock.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 01 Dec 2017 09:00:00 +0000</pubDate>
+      
+      <guid>https://socksbythesock.github.io/posts/my-first-post/</guid>
+      <description>Hello world, and welcome to the Socks by the Sock blog!</description>
+    </item>
+    
+  </channel>
+</rss>
