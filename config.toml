@@ -4,22 +4,22 @@ title = "Socks by the Sock"
 theme = "casper"
 publishDir = "docs"
 paginate = 5
-DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
 
+[permalinks]
+  post = "/:slug/"
+
 [params]
-  description = "Welcome to my website"
-  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  description = "changing the world one sock at a time"
   cover = "blog/images/cover.jpg"
   author = "Socks by the Sock"
   authorlocation = "New York, NY"
   authorwebsite = "https://socksbythesock.github.io/blog"
-  authorbio= "i would be an ecommerce site if there was demand for the sale of socks by the sock"
+  authorbio= "this would be an ecommerce site if there was demand for the sale of socks by the sock"
   logo = "images/logo.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/..."
   githubName = "socksbythesock"
   # facebookName = ""
   # codepenName = ""
@@ -32,5 +32,14 @@ canonifyurls = true
   # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
   hjsStyle = "default"
 
-  [params.social]
-    twitter = "your_twitter"
+[[menu.main]]
+  name = "Home"
+  weight = 0
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 0
+  identifier = "post"
+  url = "/post"
